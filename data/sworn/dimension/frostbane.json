@@ -1,0 +1,152 @@
+{
+  "type": "sworn:frostbane_type",
+  "generator": {
+    "biome_source": {
+      "seed": 286956243,
+      "type": "minecraft:multi_noise",
+      "temperature_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          1,
+          1
+        ]
+      },
+      "humidity_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          1,
+          1
+        ]
+      },
+      "altitude_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          1,
+          1
+        ]
+      },
+      "weirdness_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          1,
+          1
+        ]
+      },
+      "biomes": [
+        {
+          "biome": "sworn:frigid_tundra",
+          "parameters": {
+            "altitude": 0.4,
+            "weirdness": 0,
+            "offset": 0,
+            "temperature": 0.5,
+            "humidity": 0.6
+          }
+        },
+        {
+          "biome": "sworn:frigid_spikes",
+          "parameters": {
+            "altitude": 0.4,
+            "weirdness": 0.5,
+            "offset": 0,
+            "temperature": 0.2,
+            "humidity": 0.6
+          }
+        },
+        {
+          "biome": "sworn:frigid_river",
+          "parameters": {
+            "altitude": 0.2,
+            "weirdness": 0,
+            "offset": 0,
+            "temperature": 0.6,
+            "humidity": 0.7
+          }
+        },
+        {
+          "biome": "sworn:frigid_ocean",
+          "parameters": {
+            "altitude": 0,
+            "weirdness": 0,
+            "offset": 0,
+            "temperature": 0.5,
+            "humidity": 1
+          }
+        },
+        {
+          "biome": "sworn:frigid_taiga",
+          "parameters": {
+            "altitude": 0.5,
+            "weirdness": 0,
+            "offset": 0,
+            "temperature": 0.8,
+            "humidity": 0.2
+          }
+        },
+        {
+          "biome": "sworn:frigid_taiga_hills",
+          "parameters": {
+            "altitude": 0.3,
+            "weirdness": 0,
+            "offset": 0,
+            "temperature": 0.7,
+            "humidity": 0.5
+          }
+        },
+        {
+          "biome": "sworn:frigid_taiga_mountains",
+          "parameters": {
+            "altitude": 0.5,
+            "weirdness": 0,
+            "offset": 0,
+            "temperature": 0.7,
+            "humidity": 0.5
+          }
+        },
+        {
+          "biome": "sworn:deep_frigid_ocean",
+          "parameters": {
+            "altitude": 0,
+            "weirdness": 0.3,
+            "offset": 0,
+            "temperature": 0.4,
+            "humidity": 1
+          }
+        },
+        {
+          "biome": "sworn:frigid_beach",
+          "parameters": {
+            "altitude": 0.1,
+            "weirdness": 0,
+            "offset": 0,
+            "temperature": 0.4,
+            "humidity": 0.8
+          }
+        },
+        {
+          "biome": "sworn:massive_frigid_taiga",
+          "parameters": {
+            "altitude": 0.3,
+            "weirdness": 0.8,
+            "offset": 0,
+            "temperature": 0.5,
+            "humidity": 0.5
+          }
+        },
+        {
+          "biome": "sworn:massive_frigid_taiga_mountains",
+          "parameters": {
+            "altitude": 0.5,
+            "weirdness": 0.8,
+            "offset": 0,
+            "temperature": 0.5,
+            "humidity": 0.5
+          }
+        }
+      ]
+    },
+    "seed": 286956243,
+    "settings": "sworn:no_stronghold",
+    "type": "minecraft:noise"
+  }
+}
